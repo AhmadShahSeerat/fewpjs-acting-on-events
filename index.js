@@ -15,6 +15,15 @@
 //       dodger.style.left = `${left - 1}px`;
 //     }
 //   });
+
+
+
+
+
+
+
+
+
 let dodger = document.getElementById("dodger")
 function moveDodgerLeft() {
     let leftNumbers = dodger.style.left.replace("px", "");
